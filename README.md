@@ -10,4 +10,4 @@ Run FaceFusion on Google Colab https://github.com/facefusion/facefusion
 - 
 
 ### FaceFusion
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ardha27/FaceFusion-Colab/blob/main/FaceFusion_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/FaceFusion-Colab/blob/main/FaceFusion_Colab.ipynb)
